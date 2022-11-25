@@ -5,5 +5,5 @@ Here i will add some tutorials on how to quickly and easy to setup varios Tor Se
 ### Prerequesites
 
 - Have an AWS account with less than 1 year (for the "Free Tier" purposes)
-- Have basic knowledge on Tor, Networking and Linux/Unix (but don't worry i'll do my best to be as easy as possible 😊)
+- Have basic knowledge on Tor, Networking and Linux/Unix (but don't worry i'll do my best to explain it as simply as possible 😊)
 - Have some free time!
