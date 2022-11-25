@@ -1,9 +1,5 @@
 ### AWS EC2 with FreeBSD and Nginx
 
-#### FreeBSD Server Connection
-
-`ssh -i "freebsdtorkey.pem" ec2-user@ec2-15-228-35-12.sa-east-1.compute.amazonaws.com`
-
 #### Documentation
 
 ##### Install and Configure Tor on FreeBSD
