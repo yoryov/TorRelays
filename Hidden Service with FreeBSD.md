@@ -1,5 +1,9 @@
 ### AWS EC2 with FreeBSD and Nginx
 
+#### Connect to your AWS EC2 instance
+
+- You need to connect with the key file generated and the user "ec2-user"
+
 #### Documentation
 
 ##### Install and Configure Tor on FreeBSD
