@@ -22,4 +22,5 @@ With different Linux/UNIX distributions like
   - I highly recommend you to check this resources before doing the next tutorials:
     - [Relay Operations - Types of relays on the Tor network](https://community.torproject.org/relay/types-of-relays)
     - [Relay Operations - Technical considerations](https://community.torproject.org/relay/technical-considerations/)
+    - [The lifecycle of a new relay](https://blog.torproject.org/lifecycle-of-a-new-relay/)
 - And have some free time!
