@@ -33,7 +33,3 @@ https://community.torproject.org/relay/setup/guard/fedora/
 5. `systemctl restart tor`
 6. `systemctl status tor`
 7. `journalctl -e -u tor` # Check logs
-
-If everything goes ok, you should see a similar output
-
-![[Pasted image 20221130020037.png]]
