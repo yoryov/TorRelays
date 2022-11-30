@@ -22,7 +22,7 @@
 7. `pkg update -f` # Update the FreeBSD repository
 8. `pkg upgrade -y -f`  # Upgrade FreeBSD
 
-#### Installing and Configure Tor Service
+#### Tor Service Installation and Configuration
 
 1. `pkg install tor` # Installing Tor
 2. `pkg install nano`  # Installing nano for easy text edition
