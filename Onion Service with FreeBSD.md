@@ -44,3 +44,4 @@
 2. `service nginx stauts` # Check if it's running correctly
 3. `nano /usr/local/www/nginx/index.html` # Change and configure your "index" file
 4. `nano /usr/local/etc/nginx/nginx.conf` # If you need to configure the nginx web server
+5. `service nginx restart` # For every change you need to restart nginx
